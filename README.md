@@ -16,9 +16,3 @@ Este projeto contém:
 chmod +x calculadora.sh
 ./calculadora.sh
 
-
-## 💻  Como executar o arquivo `.ipynb` (Jupyter Notebook) convertido em executável (.exe)
-
-1. Baixe o arquivo `Calculadora Python.exe` aqui no repositório.
-2. Clique duas vezes para executar no Windows.
-3. ⚠️ Se aparecer alerta de segurança, clique em "Mais informações" > "Executar mesmo assim".
