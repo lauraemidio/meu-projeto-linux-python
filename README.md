@@ -2,7 +2,7 @@
 
 Este projeto contém:
 - Um script de calculadora feito em Shell Script para Linux
-- Um código Python em formato `.ipynb` (Jupyter Notebook) convertido em `.exe`
+- Um código de calculadora em Python em formato `.ipynb` (Jupyter Notebook) convertido em `.exe` 
 
 ---
 
