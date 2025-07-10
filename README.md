@@ -3,11 +3,10 @@
 Este projeto contém:
 - Um script de calculadora feito em Shell Script para Linux
 - Um código em Python em formato `.ipynb` (Jupyter Notebook) convertido em `.exe`, é uma calculadora básica que:
-  
-- Pede dois números ao usuário.
-- Mostra opções de operações matemáticas (soma, subtração, multiplicação, divisão).
-- Executa a operação escolhida.
-- Permite repetir isso até que o usuário decida sair.
+   Pede dois números ao usuário.
+   Mostra opções de operações matemáticas (soma, subtração, multiplicação, divisão).
+   Executa a operação escolhida.
+   Permite repetir isso até que o usuário decida sair.
 
 
 ---
