@@ -1,4 +1,4 @@
-# Projeto com Shell Script (.sh) e Python Notebook (.ipynb)
+# Projeto com Shell Script (.sh) e Python Notebook (.ipynb) convertido em (.exe)
 
 Este projeto contém:
 - Um script de calculadora feito em Shell Script para Linux
